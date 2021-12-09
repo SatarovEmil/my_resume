@@ -1,0 +1,31 @@
+*{
+    margin: 1px;
+    padding: 10px;
+}
+
+
+.name_1 {
+    color: rgb(167, 86, 167) !important;
+    font-size: 100px;
+}
+
+.name_2 {
+    color: rgb(167, 86, 167) !important;
+    font-size: 100px;
+}
+
+.proff{
+    color: grey !important;
+    font-size: 50px
+}
+
+
+.container_2{
+    border: 2px;
+    border-color: grey;
+
+}
+.main{
+    display: flex;
+    flex-direction: row;    
+}
